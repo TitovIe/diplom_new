@@ -11,7 +11,7 @@
 
 using namespace std;
 
-static int global_counter = 3;
+static int global_counter = 0;
 
 class Graph {
 public:
